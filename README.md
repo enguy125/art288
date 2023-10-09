@@ -1,1 +1,35 @@
-# art288
+# ART 288: Interaction Design I
+
+## Course Description
+The class introduces the fundamentals of web typography and layout, as well as the standard design and
+development practices for the pervasive experiences of digital media and the cultural contexts that they exist within. It is primarily a studio course in which the fundamentals of coding for the web are taught through hands-on work each week.
+
+### Learning Outcomes
+* Demonstrate core principles and techniques for graphic and information design using basic development
+tools, terminology and aesthetics
+* Interpret user research and testing through planning, curating and organizing digital content
+* Demonstrate creativity and inclusivity in the conception and development of interactive experiences for
+diverse users
+* Discuss interaction design principles and cultural practice
+* Employ current industry standards and systematic process for designing interactive products, starting
+from a high-level design problem and ending with a detailed specification 
+
+## Contents
+ * [Project 1: Editorial Site](#project-1)
+ * [Project 2: Recipe Blog](#project-2)
+
+## Project 1
+### Task
+Code a mini news web page from scratch using an assortment of relevant and credible articles. These articles should reflect your interests or concerns, defined either by sources, topics, or contents.
+### Deliverables
+* Content of at least 5 supporting articles with author name, date of publication, and publisher.
+* Two-column layout grid or more.
+* A header, a navigation, a body, a section, an article, and a list minimum.
+* Multiple levels of headings and paragraphs using font weight, size, style, text transformation, letter spacing, and line height attributes.
+* Two font families and two colors, not including background color.
+* Style properties and values of color, padding, margins & border.
+* Links to original source articles
+#### Topic: AI Innovation is Transforming the Educational Landscape
+
+
+### Project 2
