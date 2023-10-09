@@ -1,5 +1,10 @@
 # ART 288: Interaction Design I
 
+## Contents
+ * [About the Course](#course-description)
+ * [Project 1: Editorial Site](#project-1)
+ * [Project 2: Recipe Blog](#project-2)
+
 ## Course Description
 The class introduces the fundamentals of web typography and layout, as well as the standard design and
 development practices for the pervasive experiences of digital media and the cultural contexts that they exist within. It is primarily a studio course in which the fundamentals of coding for the web are taught through hands-on work each week.
@@ -13,10 +18,6 @@ diverse users
 * Discuss interaction design principles and cultural practice
 * Employ current industry standards and systematic process for designing interactive products, starting
 from a high-level design problem and ending with a detailed specification 
-
-## Contents
- * [Project 1: Editorial Site](#project-1)
- * [Project 2: Recipe Blog](#project-2)
 
 ## Project 1
 ### Task
