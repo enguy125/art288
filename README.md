@@ -34,7 +34,7 @@ Code a mini news web page from scratch using an assortment of relevant and credi
 * Links to original source articles
 
 
-### Project 2
+## Project 2
 #### Topic: Banh Bakes Blog: Banh Bo Nuong Recipe
 ##### view my project here: https://enguy125.github.io/enguy125/art228/project2/index.html
 ### Task
