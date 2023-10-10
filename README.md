@@ -20,6 +20,9 @@ diverse users
 from a high-level design problem and ending with a detailed specification 
 
 ## Project 1
+### Topic
+#### AI Innovation is Transforming the Educational Landscape
+view here: https://enguy125.github.io/enguy125/art228/project1/index.html
 ### Task
 Code a mini news web page from scratch using an assortment of relevant and credible articles. These articles should reflect your interests or concerns, defined either by sources, topics, or contents.
 ### Deliverables
@@ -30,7 +33,20 @@ Code a mini news web page from scratch using an assortment of relevant and credi
 * Two font families and two colors, not including background color.
 * Style properties and values of color, padding, margins & border.
 * Links to original source articles
-#### Topic: AI Innovation is Transforming the Educational Landscape
 
 
 ### Project 2
+### Topic
+#### Banh Bakes: A recipe for Banh Bo Nuong
+view here: https://enguy125.github.io/enguy125/art228/project1/index.html
+### Task
+Code a recipe page and employ one of the most dynamic kinds of web content: images & other media contents.
+### Deliverables
+* Articulate the significance of the content in your cultural or historical context
+* A logical reading flow, clear user orientation, and user retention through dynamic layout
+* Multiple lists of ingredients, instructions, comments, and similar recipes
+* A header, a navigation menu, a body, and a footer
+* A dynamic layout of two (2) columns grid or more
+* Three (3) images or more and one (1) image for each comment
+* A clear and developed visual hierachy
+* Print, share, and favorite buttons
