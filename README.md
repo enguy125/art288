@@ -19,22 +19,24 @@ diverse users
 from a high-level design problem and ending with a detailed specification 
 
 ## Project 1
-#### Topic: AI Innovation is Transforming the Educational Landscape
+#### AI Innovation is Transforming the Educational Landscape
 ##### view my project here: https://enguy125.github.io/enguy125/art228/project1/index.html
 ### Task
 Code a mini news web page from scratch using an assortment of relevant and credible articles. These articles should reflect your interests or concerns, defined either by sources, topics, or contents.
 ### Deliverables
-* Content of at least 5 supporting articles with author name, date of publication, and publisher.
-* Two-column layout grid or more.
-* A header, a navigation, a body, a section, an article, and a list minimum.
-* Multiple levels of headings and paragraphs using font weight, size, style, text transformation, letter spacing, and line height attributes.
-* Two font families and two colors, not including background color.
-* Style properties and values of color, padding, margins & border.
+* Content of at least 5 supporting articles with author name, date of publication, and publisher
+* Two-column layout grid or more
+* A header, a navigation, a body, a section, an article, and a list minimum
+* Multiple levels of headings and paragraphs using font weight, size, style, text transformation, letter spacing, and line height attributes
+* Two font families and two colors, not including background color
+* Style properties and values of color, padding, margins & border
+* Different hover states for CTA buttons
 * Links to original source articles
+* Original graphics designed in Adobe Illustrator
 
 
 ## Project 2
-#### Topic: Banh Bakes Blog: Banh Bo Nuong Recipe
+#### Banh Bakes Blog: Banh Bo Nuong Recipe
 ##### view my project here: https://enguy125.github.io/enguy125/art228/project2/index.html
 ### Task
 Code a recipe page and employ one of the most dynamic kinds of web content: images & other media contents.
