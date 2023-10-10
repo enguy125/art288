@@ -47,5 +47,5 @@ Code a recipe page and employ one of the most dynamic kinds of web content: imag
 * A header, a navigation menu, a body, and a footer
 * A dynamic layout of two (2) columns grid or more
 * Three (3) images or more and one (1) image for each comment
-* A clear and developed visual hierachy
+* A clear and developed visual hierarchy
 * Print, share, and favorite buttons
