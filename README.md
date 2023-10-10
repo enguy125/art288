@@ -37,7 +37,7 @@ Code a mini news web page from scratch using an assortment of relevant and credi
 
 ### Project 2
 ### Topic
-#### Banh Bakes: A recipe for Banh Bo Nuong
+#### Banh Bakes Blog: Banh Bo Nuong Recipe
 view here: https://enguy125.github.io/enguy125/art228/project2/index.html
 ### Task
 Code a recipe page and employ one of the most dynamic kinds of web content: images & other media contents.
