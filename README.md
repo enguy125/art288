@@ -20,9 +20,8 @@ diverse users
 from a high-level design problem and ending with a detailed specification 
 
 ## Project 1
-### Topic
-#### AI Innovation is Transforming the Educational Landscape
-view my project here: https://enguy125.github.io/enguy125/art228/project1/index.html
+#### Topic: AI Innovation is Transforming the Educational Landscape
+##### view my project here: https://enguy125.github.io/enguy125/art228/project1/index.html
 ### Task
 Code a mini news web page from scratch using an assortment of relevant and credible articles. These articles should reflect your interests or concerns, defined either by sources, topics, or contents.
 ### Deliverables
@@ -36,9 +35,8 @@ Code a mini news web page from scratch using an assortment of relevant and credi
 
 
 ### Project 2
-### Topic
-#### Banh Bakes Blog: Banh Bo Nuong Recipe
-view my project here: https://enguy125.github.io/enguy125/art228/project2/index.html
+#### Topic: Banh Bakes Blog: Banh Bo Nuong Recipe
+##### view my project here: https://enguy125.github.io/enguy125/art228/project2/index.html
 ### Task
 Code a recipe page and employ one of the most dynamic kinds of web content: images & other media contents.
 ### Deliverables
