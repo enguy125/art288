@@ -6,8 +6,7 @@
  * [Project 2: Recipe Blog](#project-2)
 
 ## Course Description
-The class introduces the fundamentals of web typography and layout, as well as the standard design and
-development practices for the pervasive experiences of digital media and the cultural contexts that they exist within. It is primarily a studio course in which the fundamentals of coding for the web are taught through hands-on work each week.
+The class introduces the fundamentals of web typography and layout, as well as the standard design and development practices for the pervasive experiences of digital media and the cultural contexts that they exist within. It is primarily a studio course in which the fundamentals of coding for the web are taught through hands-on work each week.
 
 ### Learning Outcomes
 * Demonstrate core principles and techniques for graphic and information design using basic development
